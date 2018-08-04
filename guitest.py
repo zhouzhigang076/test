@@ -11,6 +11,8 @@ print（”三次测试“）
 print("今天要吃鸡")
 print("五次测试")
 print("北京的天太热辣")
+print("测试B")
+
 
 
 
